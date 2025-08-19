@@ -164,4 +164,4 @@ This method uses `cmd` to properly handle paths with spaces in Windows.
 
 ## License
 
-ISC - See LICENSE.md for details.
+MIT - See LICENSE.md for details.
